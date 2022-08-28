@@ -1,0 +1,6 @@
+Create a file of Notepad with at least 5 sentences and read it 3 times and display it. First character by character, second word on each line and third line by line. 2. Write at least 5 sentences on a text file from your program and create the text file if it is not already created. Performthis activity using the stream insertion operator. For example: hFile<<” This is an example \n….”;
+3. Save the above 5 sentences in an array and then write them on a text file. Extend this program which read same fileand display it on console each word on separate line. 4. Write following text on a text file as it is:
+You will find it very good
+good practice always to verify
+your references
+(Dr. Routh)

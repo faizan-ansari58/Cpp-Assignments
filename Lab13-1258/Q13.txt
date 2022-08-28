@@ -1,0 +1,3 @@
+Create a text file and enter your complete name on it and then read this file and display it on console
+Save your text file anywhere on computer and display it on screen
+Display your source (code) file on the screen
